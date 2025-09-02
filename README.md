@@ -36,7 +36,7 @@ The experiment highlights how **AI video and audio generation tools** can be com
 ---
 
 ## 📊 Experiments Log  
-A detailed log of all trials (successes and failures) is available in the `Experiments_Log.md` file.  
+A detailed log of all trials (successes and failures) is available in the `Trials_Log.md` file.  
 
 - **Successes:** HeyGen (video generation), Descript (final editing).  
 - **Failures:** Free TTS tools (Narakeet, VoiceMaker), OpenAI TTS (usage limits), ChatGPT (no direct audio/video).  
